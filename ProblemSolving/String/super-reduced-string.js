@@ -2,7 +2,7 @@
 
 const superReducer = (accumulator, current) => (
   accumulator.endsWith(current)
-    ? accumulator.substring(0, accumulator.length - 1)
+    ? accumulator.slice(0, -1)
     : accumulator + current
 );
 
