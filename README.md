@@ -2,7 +2,6 @@
 
 ## ProblemSolving
 
-### String
 | Sub-Domain |  Challenge | Solution |
 | --- |---| ---|
 | String |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](./ProblemSolving/String/super-reduced-string.js) |
@@ -11,3 +10,5 @@
 | String |[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | [Solution](./ProblemSolving/String/the-love-letter-mystery.js) |
 | String |[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [Solution](./ProblemSolving/String/making-anagrams.js) |
 | String |[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](./ProblemSolving/String/funny-string.js) |
+| String |[Alternating String](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](./ProblemSolving/String/alternating-characters.js) |
+
