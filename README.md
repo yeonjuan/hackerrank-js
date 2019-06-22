@@ -11,4 +11,4 @@
 | String |[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [Solution](./ProblemSolving/String/making-anagrams.js) |
 | String |[Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](./ProblemSolving/String/funny-string.js) |
 | String |[Alternating String](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](./ProblemSolving/String/alternating-characters.js) |
-
+| String |[Two String](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](./ProblemSolving/String/two-strings.js) |
