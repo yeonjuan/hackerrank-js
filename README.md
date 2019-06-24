@@ -13,3 +13,4 @@
 | String |[Alternating String](https://www.hackerrank.com/challenges/alternating-characters/problem) | [Solution](./ProblemSolving/String/alternating-characters.js) |
 | String |[Two String](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](./ProblemSolving/String/two-strings.js) |
 | String |[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [Solution](./ProblemSolving/String/game-of-thrones-1.js) |
+| String |[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](./ProblemSolving/String/pangrams.js) |
