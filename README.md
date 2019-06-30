@@ -1,5 +1,11 @@
 # Hackerrank-js
 
+## 10 Days of Javascript
+| Day |  Challenge | Solution |
+| --- |---| ---|
+|     |   |    |
+
+
 ## ProblemSolving
 
 | Sub-Domain |  Challenge | Solution |
