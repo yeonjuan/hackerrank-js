@@ -4,6 +4,7 @@
 | Day |  Challenge | Solution |
 | --- |---| ---|
 | 0   |[Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](./10DaysOfJavascript/Day0/hello-world.js) |
+| 0   |[Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](./10DaysOfJavascript/Day0/data-types.js) |
 
 ## The HackerRank Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
