@@ -5,10 +5,10 @@
 | --- |---| ---|
 | 0   |[Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](./10DaysOfJavascript/Day0/hello-world.js) |
 
-## The HackerRank Interview Preparation Kit 
+## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
 | --- |---| ---|
-|     |   |    |
+| Arrays | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./interviewPreparationKit/arrays/left-rotation.js)|
 
 ## ProblemSolving
 
