@@ -5,8 +5,8 @@ const performOperation = (secondInteger, secondDecimal, secondString) => {
     const firstDecimal = 4.0;
     const firstString = 'HackerRank ';
 
-    console.log(parseInt(firstInteger, 10) + parseInt(secondInteger, 10));
-    console.log(parseFloat(firstDecimal) + parseFloat(secondDecimal));
+    console.log(firstInteger + parseInt(secondInteger, 10));
+    console.log(firstDecimal + parseFloat(secondDecimal));
     console.log(firstString + secondString);
 }
 
