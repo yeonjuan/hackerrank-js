@@ -5,6 +5,8 @@
 | --- |---| ---|
 | 0   |[Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](./10DaysOfJavascript/Day0/hello-world.js) |
 | 0   |[Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](./10DaysOfJavascript/Day0/data-types.js) |
+| 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) |
+| 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |
 
 ## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
