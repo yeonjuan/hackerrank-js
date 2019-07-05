@@ -6,4 +6,4 @@ const superReducer = (accumulator, current) => (
     : accumulator + current
 );
 
-const superReducedString = (str) => [...str].reduce(superReducer) || 'Empty String';
+const superReducedString = str => [...str].reduce(superReducer) || 'Empty String';
