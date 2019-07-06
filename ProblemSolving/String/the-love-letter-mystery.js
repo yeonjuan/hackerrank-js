@@ -2,7 +2,7 @@
 
 const getCharDistance = (charA, charB) => Math.abs(charA.charCodeAt(0) - charB.charCodeAt(0));
 
-const theLoveLetterMystery = (str) => {
+const theLoveLetterMystery = str => {
   let count = 0;
   const halfLength = str.length / 2;
 
