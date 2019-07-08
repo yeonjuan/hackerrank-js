@@ -3,15 +3,17 @@
 const makingAnagrams = (strA, strB) => {
   const strACountMap = createCountMapFromString(strA);
   const strBCountMap = createCountMapFromString(strB);
+
   return getEntriesDistanceSum(strACountMap, strBCountMap);
 };
 
-const createCountMapFromString = (str) => (
+const createCountMapFromString = str => (
   [...str].reduce((map, char) => {
-      const count = map.has(char) ? map.get(char) + 1 : 1;
-      map.set(char, count);
-      return map;
-    }, new Map())
+    const count = map.has(char) ? map.get(char) + 1 : 1;
+    map.set(char, count);
+
+    return map;
+  }, new Map())
 );
 
 const getEntriesDistanceSum = (mapA, mapB) => {
