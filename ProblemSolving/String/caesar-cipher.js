@@ -6,17 +6,17 @@ const shouldGoFirst = (pre, shift) => {
   return (post > 'z') ? true : !!((pre <= 'Z' && post.charCodeAt(0) > 'Z'.charCodeAt(0)));
 };
 
-const isSymbol = char => (char >= 'A' && char <= 'Z') ? false :
-  !((char >= 'a' && char <= 'z'));
+const isSymbol = letter => (letter >= 'A' && letter <= 'Z') ? false :
+  !((letter >= 'a' && letter <= 'z'));
 
-const caesarCipher = (string, shift) => {
-  const {length} = string;
+const caesarCipher = (letters, shift) => {
+  const {length} = letters;
   shift = shift % 26;
 
   let ret = '';
 
   for (let i = 0; i < length; i++) {
-    const cur = string.charAt(i);
+    const cur = letters.charAt(i);
     if (isSymbol(cur)) {
       ret += cur;
     } else if (shouldGoFirst(cur, shift)) {
