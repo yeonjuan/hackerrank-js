@@ -30,4 +30,5 @@
 | String |[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [Solution](./ProblemSolving/String/game-of-thrones-1.js) |
 | String |[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](./ProblemSolving/String/pangrams.js) |
 | String |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./ProblemSolving/String/hackerrank-in-a-string.js) |
+| String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
