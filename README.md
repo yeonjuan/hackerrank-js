@@ -5,6 +5,9 @@
 | --- |---| ---|
 | 0   |[Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](./10DaysOfJavascript/Day0/hello-world.js) |
 | 0   |[Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](./10DaysOfJavascript/Day0/data-types.js) |
+| 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) |
+| 1   |[Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](./10DaysOfJavascript/Day1/let-and-const.js) |
+| 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |
 
 ## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
@@ -15,6 +18,7 @@
 
 | Sub-Domain |  Challenge | Solution |
 | --- |---| ---|
+| Warmup |[Simple-Array-Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./ProblemSolving/Warmup/simple-array-sum.js) |
 | String |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](./ProblemSolving/String/super-reduced-string.js) |
 | String |[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](./ProblemSolving/String/strong-password.js) |
 | String |[String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solution](./ProblemSolving/String/string-construction.js) |
@@ -26,3 +30,6 @@
 | String |[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [Solution](./ProblemSolving/String/game-of-thrones-1.js) |
 | String |[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](./ProblemSolving/String/pangrams.js) |
 | String |[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](./ProblemSolving/String/two-characters.js) |
+| String |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./ProblemSolving/String/hackerrank-in-a-string.js) |
+| String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
+| Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
