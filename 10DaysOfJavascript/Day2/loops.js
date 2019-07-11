@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/js10-loops/problem
 
-const isVowel = letter => /^a|e|i|o/.test(letter);
+const isVowel = letter => /^a|e|i|o|u/.test(letter);
 const isConsonant = letter => !isVowel(letter);
 
 const vowelsAndConsonants = letters => {
