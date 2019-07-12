@@ -33,4 +33,5 @@
 | String |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./ProblemSolving/String/hackerrank-in-a-string.js) |
 | String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
+| Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
