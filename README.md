@@ -34,3 +34,4 @@
 | String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
+| Greedy | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |
