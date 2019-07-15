@@ -8,6 +8,7 @@
 | 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) |
 | 1   |[Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](./10DaysOfJavascript/Day1/let-and-const.js) |
 | 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |
+| 2   |[Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-switch.js) |
 
 ## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
