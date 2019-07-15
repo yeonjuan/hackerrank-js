@@ -5,13 +5,7 @@ const bigNumCompareFunc = (numStrA, numStrB) => {
   const {length: strLengthB} = numStrB;
 
   if (strLengthA === strLengthB) {
-    for (let index = 0; index < strLengthB; index++) {
-      const placeNumA = numStrA[index];
-      const placeBumB = numStrB[index];
-      if (placeNumA !== placeBumB) {
-        return placeNumA - placeBumB;
-      }
-    }
+    return numStrA.localeCompare(numStrB);
   }
 
   return strLengthA - strLengthB;
