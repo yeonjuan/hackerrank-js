@@ -8,7 +8,7 @@ const caesarCipher = (letters, shift) => {
     if (/[a-z]/.test(letter)) {
       let moved = letter.charCodeAt(0) + shiftMod;
       if (moved > 'z'.charCodeAt(0)) {
-        moved = 'a'.charCodeAt(0) + (moved - 'z'.charCodeAt(0) - 1);
+        moved -= range;
       }
 
       return String.fromCharCode(moved);
@@ -16,7 +16,7 @@ const caesarCipher = (letters, shift) => {
     if (/[A-Z]/.test(letter)) {
       let moved = letter.charCodeAt(0) + shiftMod;
       if (moved > 'Z'.charCodeAt(0)) {
-        moved = 'A'.charCodeAt(0) + (moved - 'Z'.charCodeAt(0) - 1);
+        moved -= range;
       }
 
       return String.fromCharCode(moved);
