@@ -35,4 +35,5 @@
 | String |[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./ProblemSolving/String/mars-exploration.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
+| LinkedLists | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/print-the-elements-of-a-linked-list.js) |
 | LinkedLists |[Insert a Node at the Tail of a Linked Lists] (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
