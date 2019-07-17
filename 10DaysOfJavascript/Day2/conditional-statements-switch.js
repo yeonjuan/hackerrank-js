@@ -8,9 +8,9 @@ const isGroupC = firstLetter => /^h|j|k|l|m/.test(firstLetter);
 
 const isGroupD = firstLetter => /^n|p|q|r|s|t|v|w|x|y|z/.test(firstLetter);
 
-function getLetter(s) {
+const getLetter = letters => {
   let letter;
-  const [firstLetter] = s;
+  const [firstLetter] = letters;
   if (isGroupA(firstLetter)) {
     letter = 'A';
   } else if (isGroupB(firstLetter)) {
@@ -22,5 +22,5 @@ function getLetter(s) {
   }
 
   return letter;
-}
+};
 
