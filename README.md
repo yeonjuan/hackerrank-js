@@ -8,6 +8,8 @@
 | 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) |
 | 1   |[Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](./10DaysOfJavascript/Day1/let-and-const.js) |
 | 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |
+| 2   |[Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](./10DaysOfJavascript/Day2/loops.js) |
+| 2   |[Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-if-else.js) |
 
 ## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
@@ -19,6 +21,7 @@
 | Sub-Domain |  Challenge | Solution |
 | --- |---| ---|
 | Warmup |[Simple-Array-Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./ProblemSolving/Warmup/simple-array-sum.js) |
+| Warmup |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](./ProblemSolving/Warmup/compare-the-triplets.js) |
 | String |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](./ProblemSolving/String/super-reduced-string.js) |
 | String |[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](./ProblemSolving/String/strong-password.js) |
 | String |[String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solution](./ProblemSolving/String/string-construction.js) |
@@ -32,8 +35,12 @@
 | String |[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](./ProblemSolving/String/two-characters.js) |
 | String |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./ProblemSolving/String/hackerrank-in-a-string.js) |
 | String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
+| String |[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution] (./ProblemSolving/String/caesar-cipher.js) |
 | String |[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./ProblemSolving/String/mars-exploration.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
+| Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
+| LinkedLists | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/print-the-elements-of-a-linked-list.js) |
 | LinkedLists |[Insert a Node at the Tail of a Linked Lists] (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
 | LinkedLists | [Insert a Node at a Specific position of a Linked Lists](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/insert-a-node-at-a-specific-position-in-a-linked-list.js) |
+
