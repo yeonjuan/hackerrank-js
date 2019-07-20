@@ -35,6 +35,7 @@
 | String |[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](./ProblemSolving/String/two-characters.js) |
 | String |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./ProblemSolving/String/hackerrank-in-a-string.js) |
 | String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
+| String |[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution] (./ProblemSolving/String/caesar-cipher.js) |
 | String |[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./ProblemSolving/String/mars-exploration.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
