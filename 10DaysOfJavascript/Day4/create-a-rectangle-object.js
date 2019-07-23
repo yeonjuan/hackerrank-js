@@ -1,8 +1,8 @@
 //  https://www.hackerrank.com/challenges/js10-objects/problem
 
-function Rectangle(a, b) {
-  this.length = a;
-  this.width = b;
-  this.perimeter = 2 * (a + b);
-  this.area = a * b;
+function Rectangle(length, width) {
+  this.length = length;
+  this.width = width;
+  this.perimeter = 2 * (length + width);
+  this.area = length * width;
 }
