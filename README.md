@@ -41,7 +41,7 @@
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
+| Greedy | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |
 | LinkedLists | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/print-the-elements-of-a-linked-list.js) |
-| LinkedLists |[Insert a Node at the Tail of a Linked Lists] (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
+| LinkedLists |[Insert a Node at the Tail of a Linked Lists](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
 | LinkedLists | [Insert a Node at a Specific position of a Linked Lists](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/insert-a-node-at-a-specific-position-in-a-linked-list.js) |
-
