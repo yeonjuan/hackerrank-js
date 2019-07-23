@@ -8,8 +8,9 @@
 | 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) |
 | 1   |[Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [Solution](./10DaysOfJavascript/Day1/let-and-const.js) |
 | 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |
-| 2   |[Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](./10DaysOfJavascript/Day2/loops.js) |
 | 2   |[Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-if-else.js) |
+| 2   |[Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-switch.js) |
+| 2   |[Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](./10DaysOfJavascript/Day2/loops.js) |
 | 3   |[Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](./10DaysOfJavascript/Day3/arrays.js) |
 | 3   |[Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](./10DaysOfJavascript/Day3/try-catch-and-finally.js) |
 
@@ -42,7 +43,7 @@
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
+| Greedy | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) |
 | LinkedLists | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/print-the-elements-of-a-linked-list.js) |
-| LinkedLists |[Insert a Node at the Tail of a Linked Lists] (https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
+| LinkedLists |[Insert a Node at the Tail of a Linked Lists](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[Solution](./ProblemSolving/LinkedLists/insert-a-node-at-the-tail-of-a-linked-list.js) |
 | LinkedLists | [Insert a Node at a Specific position of a Linked Lists](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](./ProblemSolving/LinkedLists/insert-a-node-at-a-specific-position-in-a-linked-list.js) |
-
