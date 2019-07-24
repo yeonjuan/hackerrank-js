@@ -14,6 +14,7 @@
 | 3   |[Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](./10DaysOfJavascript/Day3/arrays.js) |
 | 3   |[Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](./10DaysOfJavascript/Day3/try-catch-and-finally.js) |
 | 3   |[Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [Solution](./10DaysOfJavascript/Day3/throw.js) |
+| 4   |[Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [Solution](./10DaysOfJavascript/Day4/create-a-rectangle-object.js) |
 
 ## Interview Preparation Kit 
 | Sub-Domain |  Challenge | Solution |
