@@ -20,7 +20,9 @@
 | Sub-Domain |  Challenge | Solution |
 | --- |---| ---|
 | Arrays | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./interviewPreparationKit/arrays/left-rotation.js)|
+| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./interviewPreparationKit/arrays/2d-array-ds.js)|
 | Warm-up Challenges | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](./interviewPreparationKit/warm-up-challenges/sock-merchant.js)|
+
 ## ProblemSolving
 
 | Sub-Domain |  Challenge | Solution |
