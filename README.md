@@ -11,6 +11,7 @@
 | 2   |[Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-if-else.js) |
 | 2   |[Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [Solution](./10DaysOfJavascript/Day2/conditional-statements-switch.js) |
 | 2   |[Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [Solution](./10DaysOfJavascript/Day2/loops.js) |
+| 3   |[Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [Solution](./10DaysOfJavascript/Day3/arrays.js) |
 | 3   |[Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [Solution](./10DaysOfJavascript/Day3/try-catch-and-finally.js) |
 | 3   |[Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [Solution](./10DaysOfJavascript/Day3/throw.js) |
 
