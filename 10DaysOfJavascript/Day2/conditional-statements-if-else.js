@@ -12,10 +12,9 @@ const getGrade = score => {
     grade = 'C';
   } else if (score <= 25) {
     grade = 'B';
-  } else if (score <= 30) {
+  } else {
     grade = 'A';
   }
 
   return grade;
 };
-
