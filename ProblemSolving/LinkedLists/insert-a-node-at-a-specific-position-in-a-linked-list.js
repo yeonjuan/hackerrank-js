@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
-
+/* global SinglyLinkedListNode b:writable */
 const insertNodeAtPosition = (head, data, position) => {
   const newNode = new SinglyLinkedListNode(data);
   if (position === 0) {
