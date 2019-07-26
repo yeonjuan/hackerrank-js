@@ -18,8 +18,8 @@ const weightedUniformStrings = (original, queries) => {
   }
 
   const ret = [];
-  for (const query in queries) {
-    if (subUniformWeight.has(queries[query])) {
+  for (const query of queries) {
+    if (subUniformWeight.has(query)) {
       ret.push('Yes');
     } else {
       ret.push('No');
