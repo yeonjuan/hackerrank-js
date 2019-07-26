@@ -44,6 +44,7 @@
 | String |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./ProblemSolving/String/camelCase.js) |
 | String |[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [Solution](./ProblemSolving/String/caesar-cipher.js) |
 | String |[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./ProblemSolving/String/mars-exploration.js) |
+| String |[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](./ProblemSolving/String/weighted-uniform-strings.js) |
 | Sorting |[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) |[Solution](./ProblemSolving/Sorting/find-the-median.js) |
 | Sorting |[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) |[Solution](./ProblemSolving/Sorting/big-sorting.js) |
 | Implementation |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./ProblemSolving/Implementation/grading-students.js) |
