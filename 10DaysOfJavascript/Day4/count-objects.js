@@ -2,7 +2,7 @@
 
 const getCount = objects => {
   let countEqual = 0;
-  for (const object of Object.values(objects)) {
+  for (const object of objects) {
     if (object.x === object.y) {
       countEqual += 1;
     }
