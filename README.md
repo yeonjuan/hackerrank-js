@@ -46,6 +46,10 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [Solution](./10-Days-Of-Javascript/Day4/classes.js)|
 | Easy | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [Solution](./10-Days-Of-Javascript/Day4/create-a-rectangle-object.js)|
+#### Day5
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Solution](./10-Days-Of-Javascript/Day5/inheritance.js)|
 
 **[⬆ back to top](#Table-of-contents)**
 
