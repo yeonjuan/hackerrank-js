@@ -1,4 +1,8 @@
-// https://www.hackerrank.com/challenges/js10-inheritance/problem
+/**
+ * @title Inheritance
+ * @difficulty Easy
+ * @link https://www.hackerrank.com/challenges/js10-inheritance/problem
+ */
 
 Rectangle.prototype.area = function() {
   return this.w * this.h;
