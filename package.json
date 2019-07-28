@@ -4,6 +4,7 @@
   "description": "## 10 Days of Javascript | Day |  Challenge | Solution | | --- |---| ---| | 0   |[Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [Solution](./10DaysOfJavascript/Day0/hello-world.js) | | 0   |[Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [Solution](./10DaysOfJavascript/Day0/data-types.js) | | 1   |[Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [Solution](./10DaysOfJavascript/Day1/arithmetic-operators) | | 1   |[Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [Solution](./10DaysOfJavascript/Day1/functions.js) |",
   "main": "index.js",
   "scripts": {
+    "create-readme": "node ./.tool/src/index.js",
     "lint": "eslint ./**/*.js"
   },
   "repository": {
@@ -18,6 +19,16 @@
   "homepage": "https://github.com/yeonjuan/hackerrank-js#readme",
   "devDependencies": {
     "eslint": "^6.0.1",
-    "eslint-config-tui": "^2.2.0"
+    "eslint-config-tui": "^2.2.0",
+    "handlebars": "^4.1.2",
+    "comment-parser": "^0.6.1"
+  },
+  "dependencies": {
+    "husky": "^3.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
   }
 }
