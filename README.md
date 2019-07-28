@@ -44,6 +44,7 @@ Generates the README.md.
 #### Day4
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
+| Easy | [Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [Solution](./10-Days-Of-Javascript/Day4/classes.js)|
 | Easy | [Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [Solution](./10-Days-Of-Javascript/Day4/create-a-rectangle-object.js)|
 
 **[⬆ back to top](#Table-of-contents)**
@@ -123,3 +124,4 @@ Generates the README.md.
 **[⬆ back to top](#Table-of-contents)**
 
 ---
+
