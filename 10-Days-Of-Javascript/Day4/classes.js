@@ -1,4 +1,8 @@
-//  https://www.hackerrank.com/challenges/js10-class/problem
+/**
+ * @title Classes
+ * @difficulty Easy
+ * @link https://www.hackerrank.com/challenges/js10-class/problem
+ */
 
 const Polygon = class {
   constructor(lengthOfSides) {
