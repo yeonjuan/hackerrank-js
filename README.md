@@ -84,6 +84,7 @@ Generates the README.md.
 | Easy | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [Solution](./Algorithms/String/camelCase.js)|
 | Easy | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](./Algorithms/String/funny-string.js)|
 | Easy | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [Solution](./Algorithms/String/game-of-thrones-1.js)|
+| Easy | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | [Solution](./Algorithms/String/gemstones.js)|
 | Easy | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](./Algorithms/String/hackerrank-in-a-string.js)|
 | Easy | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [Solution](./Algorithms/String/making-anagrams.js)|
 | Easy | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./Algorithms/String/mars-exploration.js)|
