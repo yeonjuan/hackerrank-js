@@ -2,7 +2,7 @@
 name: Interview Preparation Kit
 about: 'category: Interview Preparation Kit'
 title: 'Interview Preparation Kit: [problem name]'
-labels: problem, Interview Preparation Kit
+labels: Interview Preparation Kit, problem
 assignees: ''
 
 ---
