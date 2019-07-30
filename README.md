@@ -100,6 +100,7 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](./Algorithms/Warmup/compare-the-triplets.js)|
 | Easy | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./Algorithms/Warmup/simple-array-sum.js)|
+| Easy | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./Algorithms/Warmup/solve-me-first.js)|
 
 **[⬆ back to top](#Table-of-contents)**
 
