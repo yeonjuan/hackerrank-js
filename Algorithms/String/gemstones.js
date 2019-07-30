@@ -6,7 +6,7 @@
 
 const gemstones = arr => {
   const {length} = arr;
-  const gem = new Set(Array.from(arr[0]));
+  const gem = new Set([...arr[0]]);
 
   for (let i = 1; i < length; i++) {
     for (const g of gem) {
