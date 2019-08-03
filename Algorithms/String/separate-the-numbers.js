@@ -29,7 +29,6 @@ const separateNumbers = query => {
     let nextValue = BigInt(query.substr(idx, nextDigit));
 
     while (idx < length) {
-      // console.log('cur', curValue, nextValue);
       if (!digitCheck(nextDigit, nextValue)) {
         break;
       }
