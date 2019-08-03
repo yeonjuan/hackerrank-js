@@ -72,6 +72,10 @@ Generates the README.md.
 ---
 
 ### Algorithms
+#### Search
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | [Solution](./Algorithms/Search/missing-numbers.js)|
 #### Sorting
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
