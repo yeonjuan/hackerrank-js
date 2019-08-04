@@ -72,6 +72,10 @@ Generates the README.md.
 ---
 
 ### Algorithms
+#### Constructive-Algorithms
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Medium | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](./Algorithms/Constructive-Algorithms/new-year-chaos.js)|
 #### Sorting
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
@@ -91,6 +95,7 @@ Generates the README.md.
 | Easy | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | [Solution](./Algorithms/String/making-anagrams.js)|
 | Easy | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](./Algorithms/String/mars-exploration.js)|
 | Easy | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | [Solution](./Algorithms/String/pangrams.js)|
+| Easy | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | [Solution](./Algorithms/String/separate-the-numbers.js)|
 | Easy | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solution](./Algorithms/String/string-construction.js)|
 | Easy | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [Solution](./Algorithms/String/strong-password.js)|
 | Easy | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [Solution](./Algorithms/String/super-reduced-string.js)|
