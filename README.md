@@ -106,6 +106,7 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Easy | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](./Algorithms/Warmup/compare-the-triplets.js)|
+| Easy | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](./Algorithms/Warmup/mini-max-sum.js)|
 | Easy | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./Algorithms/Warmup/simple-array-sum.js)|
 | Easy | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./Algorithms/Warmup/solve-me-first.js)|
 
