@@ -80,6 +80,7 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Easy | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [Solution](./Algorithms/Sorting/big-sorting.js)|
+| Easy | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Solution](./Algorithms/Sorting/counting-sort-1.js)|
 | Easy | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [Solution](./Algorithms/Sorting/find-the-median.js)|
 | Easy | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [Solution](./Algorithms/Sorting/intro-to-tutorial-challenges.js)|
 #### String
