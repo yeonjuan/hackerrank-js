@@ -50,6 +50,7 @@ Generates the README.md.
 #### Day5
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
+| Easy | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [Solution](./10-Days-Of-Javascript/Day5/arrow-functions.js)|
 | Easy | [Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [Solution](./10-Days-Of-Javascript/Day5/inheritance.js)|
 | Easy | [Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [Solution](./10-Days-Of-Javascript/Day5/template-literals.js)|
 
