@@ -23,24 +23,24 @@ const separateNumbers = query => {
   for (let digit = 1; digit <= length / 2; digit++) {
     let idx = 0;
     let curDigit = digit;
-    let curValue = BigInt(query.substr(idx, curDigit));
+    let curValue = BigInt(query.substr(idx, curDigit)); // eslint-disable-line
     idx += curDigit;
     let nextDigit = curDigit;
-    let nextValue = BigInt(query.substr(idx, nextDigit));
+    let nextValue = BigInt(query.substr(idx, nextDigit)); // eslint-disable-line
 
     while (idx < length) {
       if (!digitCheck(nextDigit, nextValue)) {
         break;
       }
-      const diff = Number(getDiff(curValue, nextValue));
+      const diff = Number(nextValue - curValue);
       if (diff === 1) {
         curValue = nextValue;
         curDigit = nextDigit;
         idx += nextDigit;
-        nextValue = BigInt(query.substr(idx, nextDigit));
-      } else if (nextDigit - curDigit === 0) {
+        nextValue = BigInt(query.substr(idx, nextDigit)); // eslint-disable-line
+      } else if (nextDigit === curDigit) {
         nextDigit++;
-        nextValue = BigInt(query.substr(idx, nextDigit));
+        nextValue = BigInt(query.substr(idx, nextDigit)); // eslint-disable-line
       } else {
         break;
       }
