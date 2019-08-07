@@ -61,10 +61,13 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### Dictionary-and-Hashmap
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Medium | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./Interview-Preparation-Kit/Dictionary-and-Hashmap/sherlock-and-anagrams.js)|
 #### Strings
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
-| Medium | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | [Solution](./Interview-Preparation-Kit/Strings/sherlock-and-anagrams.js)|
 #### Warm-up-Challenges
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
