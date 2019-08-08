@@ -78,6 +78,10 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Medium | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](./Algorithms/Constructive-Algorithms/new-year-chaos.js)|
+#### Implementation
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](./Algorithms/Implementation/counting-valleys.js)|
 #### Sorting
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
