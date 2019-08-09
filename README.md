@@ -64,6 +64,13 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### Sorting
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Median | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./Interview-Preparation-Kit/Sorting/fraudulent-activity-notifications.js)|
+#### Strings
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
 #### Warm-up-Challenges
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
