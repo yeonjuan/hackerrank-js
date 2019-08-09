@@ -4,12 +4,6 @@
  * @link https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
  */
 
-const initState = {
-  'countSorted': {},
-  'recentExpenditure': 0,
-  'numOverSpend': 0
-};
-
 const findValueAtIndex = (countSorted, findIndex) => {
   let curPosition = 0;
   let foundValue = 0;
@@ -35,28 +29,32 @@ const findMedian = (sortedArr, length) => {
   return median;
 };
 
-const computeOverSpend = (spendState, spend, index, restExpenditure) => {
+const computeOverSpend = ({countSorted, recentExpenditure, numOverSpend}, spend, index, restExpenditure) => {
   const {length: restDays} = restExpenditure;
-  const {length: recordDays} = spendState.recentExpenditure;
+  const {length: recordDays} = recentExpenditure;
 
-  const median = findMedian(spendState.countSorted, recordDays);
+  const median = findMedian(countSorted, recordDays);
 
   if (spend >= median) {
-    spendState.numOverSpend++;
+    numOverSpend++;
   }
 
-  spendState.countSorted[spendState.recentExpenditure.shift()]--;
-  spendState.recentExpenditure.push(spend);
-  spendState.countSorted[spend] = (spendState.countSorted[spend] || 0) + 1;
+  countSorted[recentExpenditure.shift()]--;
+  recentExpenditure.push(spend);
+  countSorted[spend] = (countSorted[spend] || 0) + 1;
 
-  if (index === restDays - 1) {
-    return spendState.numOverSpend;
-  }
-
-  return spendState;
+  return {countSorted,
+    recentExpenditure,
+    numOverSpend};
 };
 
 function activityNotifications(expenditure, d) {
+  const initState = {
+    'countSorted': {},
+    'recentExpenditure': 0,
+    'numOverSpend': 0
+  };
+
   initState.recentExpenditure = expenditure.slice(0, d);
   initState.countSorted = initState.recentExpenditure.reduce((countSorted, value) => {
     countSorted[value] = (countSorted[value] || 0) + 1;
@@ -65,7 +63,7 @@ function activityNotifications(expenditure, d) {
   }, {});
 
   const restExpenditure = expenditure.splice(d);
-  const ret = restExpenditure.reduce(computeOverSpend, initState);
+  const {numOverSpend} = restExpenditure.reduce(computeOverSpend, initState);
 
-  return ret;
+  return numOverSpend;
 }
