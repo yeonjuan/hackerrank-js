@@ -1,3 +1,9 @@
+/**
+ * @title Sherlock and the Valid String
+ * @difficulty Medium
+ * @link https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
+ */
+
 const countChars = chars => chars.reduce((counter, char) => {
   counter[char] = (counter[char] || 0) + 1;
 

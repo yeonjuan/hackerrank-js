@@ -109,6 +109,7 @@ Generates the README.md.
 | Easy | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | [Solution](./Algorithms/String/the-love-letter-mystery.js)|
 | Easy | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | [Solution](./Algorithms/String/two-characters.js)|
 | Easy | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](./Algorithms/String/two-strings.js)|
+| Medium | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | [Solution](./Algorithms/String/sherlock-and-the-valid-string.js)|
 #### Warmup
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
