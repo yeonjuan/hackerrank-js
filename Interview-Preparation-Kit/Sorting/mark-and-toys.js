@@ -6,7 +6,7 @@
 
 const ascendingCompare = (a, b) => a - b;
 
-function maximumToys(prices, budget) {
+const maximumToys = (prices, budget) => {
   const sorted = prices.sort(ascendingCompare);
   let sumPrice = 0;
 
