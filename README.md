@@ -64,6 +64,13 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### String-Manipulation
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Medium | [Common Child](https://www.hackerrank.com/challenges/common-child/problem) | [Solution](./Interview-Preparation-Kit/String-Manipulation/common-child.js)|
+#### Strings
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
 #### Warm-up-Challenges
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
