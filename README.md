@@ -64,6 +64,13 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### Greedy-Algorithms
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) | [Solution](./Interview-Preparation-Kit/Greedy-Algorithms/luck-balance.js)|
+#### Strings
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
 #### Warm-up-Challenges
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
