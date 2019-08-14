@@ -64,6 +64,10 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### Sorting
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](./Interview-Preparation-Kit/Sorting/mark-and-toys.js)|
 #### Dictionary-and-Hashmap
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
