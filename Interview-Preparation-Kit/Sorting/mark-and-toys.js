@@ -6,18 +6,16 @@
 
 const ascendingCompare = (a, b) => a - b;
 
-const maximumToys = (prices, budget) => {
+function maximumToys(prices, budget) {
   const sorted = prices.sort(ascendingCompare);
+  const {length} = sorted;
   let sumPrice = 0;
-
-  for (const idx in sorted) {
-    if (sorted.isOwnProperty(idx)) {
-      sumPrice += sorted[idx];
-      if (sumPrice > budget) {
-        return idx;
-      }
+  for (let idx = 0; idx < length; idx++) {
+    sumPrice += sorted[idx];
+    if (sumPrice > budget) {
+      return idx;
     }
   }
 
-  return prices.length;
+  return length;
 }
