@@ -68,6 +68,10 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Easy | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [Solution](./Interview-Preparation-Kit/Sorting/mark-and-toys.js)|
+#### Dictionary-and-Hashmap
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Medium | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem) | [Solution](./Interview-Preparation-Kit/Dictionary-and-Hashmap/count-triplet.js)|
 #### Strings
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
@@ -85,6 +89,10 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Medium | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](./Algorithms/Constructive-Algorithms/new-year-chaos.js)|
+#### Implementation
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Easy | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](./Algorithms/Implementation/counting-valleys.js)|
 #### Sorting
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
