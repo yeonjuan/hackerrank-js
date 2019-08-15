@@ -1,7 +1,7 @@
 /**
- * @title Fraudulent Activity Notifications
+ * @title Max Min
  * @difficulty Median
- * @link https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
+ * @link https://www.hackerrank.com/challenges/angry-children/problem
  */
 
 const getUnfairness = (arr, length) => arr[length - 1] - arr[0];
