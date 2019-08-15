@@ -64,6 +64,9 @@ Generates the README.md.
 | --- | --- | --- |
 | Easy | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](./Interview-Preparation-Kit/Arrays/2d-array-ds.js)|
 | Easy | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [Solution](./Interview-Preparation-Kit/Arrays/left-rotation.js)|
+#### Strings
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
 #### Warm-up-Challenges
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
@@ -78,6 +81,10 @@ Generates the README.md.
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
 | Medium | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | [Solution](./Algorithms/Constructive-Algorithms/new-year-chaos.js)|
+#### Greedy
+| Difficulty | Problem | Solution |
+| --- | --- | --- |
+| Median | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem) | [Solution](./Algorithms/Greedy/max-min.js)|
 #### Sorting
 | Difficulty | Problem | Solution |
 | --- | --- | --- |
